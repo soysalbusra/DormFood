@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264102339770",
+    "project_id": "dormfoodapp",
+    "storage_bucket": "dormfoodapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264102339770:android:29545f0f90de9e27cbce83",
+        "android_client_info": {
+          "package_name": "com.example.dormfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHIH6GcRzKijaPWEHz0ADMovF_vyt_6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
